@@ -55,7 +55,7 @@
         </div>
 
         <!-- Pagination Links -->
-        <div class="container mx-auto mt-8 text-center ml-6">
+        <div class="container mx-auto mt-8 text-center px-6">
             {{ $posts->links() }}
         </div>
     </div>
